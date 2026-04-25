@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d3001e391bb7994a94257d416d3c37e, type: 3}
+  m_Name: BridgeSectionData_End
+  m_EditorClassIdentifier: 
+  type: 3
+  prefab: {fileID: 1673044482163347067, guid: e51a897c735d3b747b10a17e3fbcd417, type: 3}
+  length: 7.86
